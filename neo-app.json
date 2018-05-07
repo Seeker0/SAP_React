@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "path": "http://services.odata.org",
+      "target": {
+        "type": "destination",
+        "name": "Northwind"
+      },
+      "description": "Northwind ODATA service"
+    }
+  ]
+}
